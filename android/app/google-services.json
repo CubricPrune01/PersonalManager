@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789338652246",
+    "firebase_url": "https://personal-manager-86523.firebaseio.com",
+    "project_id": "personal-manager-86523",
+    "storage_bucket": "personal-manager-86523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789338652246:android:0a545d1d663ea7923545f7",
+        "android_client_info": {
+          "package_name": "com.cubricprune.personalmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789338652246-9fgldhinkl5340tmfl8pq2ihob0kcl77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cubricprune.personalmanager",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "789338652246-251l2nsjq5k88eaogivs8tl914qb2aq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsiUhSs8OLXiIeIUzYic8YH7rg6JXxq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789338652246-251l2nsjq5k88eaogivs8tl914qb2aq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789338652246-tb0ntm5qu0ig49oa9supcg5i1040opbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubricprune.personalmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
